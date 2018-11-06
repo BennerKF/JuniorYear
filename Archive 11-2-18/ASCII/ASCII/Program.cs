@@ -45,7 +45,9 @@ namespace ASCII
                    break;
 
                    case 2:
-                        //3x3 Square
+                        //***
+                        //***
+                        //***
                         for (int i = 0; i < 3; i++)
                         {
                             for (int j = 0; j < 3; j++)
